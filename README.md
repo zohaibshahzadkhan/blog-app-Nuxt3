@@ -1,75 +1,32 @@
-# Nuxt Minimal Starter
+# Blog Project
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A Vue 3-based blog application built with the Nuxt.js framework. This project allows users to browse blog posts, search through them, and dynamically display content using Tailwind CSS for styling.
 
-## Setup
+---
 
-Make sure to install dependencies:
+##  Features
 
-```bash
-# npm
-npm install
+-  **Search Functionality**: Easily search for blog posts by title.
+-  **Dynamic Blog Post Rendering**: Posts are rendered dynamically from JSON data.
+-  **Responsive Design**: Built with Tailwind CSS for a 
 
-# pnpm
-pnpm install
+---
 
-# yarn
-yarn install
+## Technologies Used
 
-# bun
-bun install
-```
+- **Nuxt.js**: The framework powering the application.
+- **Vue 3**: JavaScript framework for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **JSON**: Blog post data is stored and dynamically loaded from JSON.
 
-## Development Server
+---
 
-Start the development server on `http://localhost:3000`:
+## Installation and Setup
 
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zohaibshahzadkhan/blog-project.git
+   cd blog-project
+   npm install
+   npm run dev
+  
