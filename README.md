@@ -3,6 +3,7 @@
 A Vue 3-based blog application built with the Nuxt.js framework. This project allows users to browse blog posts, search through them, and dynamically display content using Tailwind CSS for styling.
 
 ---
+![Blog Project Screenshot](./assets/images/main.png)
 
 ##  Features
 
@@ -25,7 +26,7 @@ A Vue 3-based blog application built with the Nuxt.js framework. This project al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zohaibshahzadkhan/blog-project.git
+   git clone https://github.com/zohaibshahzadkhan/blog-app-Nuxt3
    cd blog-project
    npm install
    npm run dev
